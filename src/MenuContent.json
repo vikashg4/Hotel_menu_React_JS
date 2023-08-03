@@ -1,0 +1,66 @@
+{
+  "menuItems": [
+    {
+      "id": 1,
+
+      "sections": [
+        {
+          "title": "Main Dishes",
+          "items": [
+            { "title": "Dish 1", "body": "Description of Dish 1", "price": 10 },
+            { "title": "Dish 2", "body": "Description of Dish 2", "price": 15 },
+            { "title": "Dish 3", "body": "Description of Dish 3", "price": 12 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+
+      "sections": [
+        {
+          "title": "Cocktails",
+          "items": [
+            {
+              "title": "Cocktail 1",
+              "body": "Description of Cocktail 1",
+              "price": 8
+            },
+            {
+              "title": "Cocktail 2",
+              "body": "Description of Cocktail 2",
+              "price": 10
+            },
+            {
+              "title": "Cocktail 3",
+              "body": "Description of Cocktail 3",
+              "price": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+
+      "sections": [
+        {
+          "title": "Green Salads",
+          "items": [
+            {
+              "title": "Salad 1",
+              "body": "Description of Salad 1",
+              "price": 6
+            },
+            {
+              "title": "Salad 2",
+              "body": "Description of Salad 2",
+              "price": 7
+            },
+            { "title": "Salad 3", "body": "Description of Salad 3", "price": 5 }
+          ]
+        }
+      ]
+    }
+  ]
+}

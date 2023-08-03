@@ -1,0 +1,11 @@
+.App {
+  background-color: #EADDCA		;
+}
+@media (max-width: 767px) {
+  .leftimage {
+    height: 80vh;
+    
+  }
+}
+
+
