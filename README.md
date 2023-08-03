@@ -61,11 +61,4 @@ The project will run in development mode and will be accessible at http://localh
 This project is licensed under the MIT License.
 
 
-- In your actual README file, remember to replace placeholders such as `your-username`, `your-email`, and add any relevant information specific to your project. 
-The README serves as a documentation and guide for users and potential contributors, so make sure to keep it informative and concise.
-
-
-
-
-
 
