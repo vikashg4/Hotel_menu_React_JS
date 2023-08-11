@@ -59,6 +59,8 @@ The project will run in development mode and will be accessible at http://localh
 
 # License
 This project is licensed under the MIT License.
+![Picture of Ui hotel-menu](https://github.com/vikashg4/Hotel_menu_React_JS/assets/130660634/ea6cc477-07e9-4eb5-b74a-31c9016b55cf)
 
+![Video](https://github.com/vikashg4/Hotel_menu_React_JS/assets/130660634/f4fc30d6-e8e5-4d0d-905b-9131e2bd6304)
 
 
